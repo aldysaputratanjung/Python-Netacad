@@ -1,0 +1,37 @@
+Poin-poin penting
+1.  Fungsi print () adalah  built-in function. 
+    Ini mencetak atau mengeluarkan pesan tertentu ke layar atau jendela konsol.
+
+2.  built-in function, berlawanan dengan fungsi yang ditentukan pengguna, 
+    selalu tersedia dan tidak harus diimpor. Python 3.7.1 hadir dengan 69 fungsi bawaan. 
+    kita dapat menemukan daftar lengkapnya yang disediakan dalam urutan abjad di 
+    Python Standard Library.
+
+3.  Untuk memanggil suatu fungsi (pemanggilan fungsi), 
+    Kita perlu menggunakan nama fungsi yang diikuti dengan tanda kurung. 
+    Kita bisa meneruskan argumen ke dalam fungsi dengan menempatkannya di dalam tanda kurung. 
+    kita harus memisahkan argumen dengan koma, mis., Print ("Hello,", "world!"). 
+    Fungsi print () "kosong" mengeluarkan baris kosong ke layar.
+
+4.  String Python dipisahkan dengan tanda kutip, misalnya, "Saya adalah string", atau 
+    'Saya juga adalah string'.
+
+5.  Program komputer adalah kumpulan instruksi. 
+    Instruksi adalah perintah untuk melakukan tugas tertentu saat dijalankan, 
+    misalnya untuk mencetak pesan tertentu ke layar.
+
+6.  Dalam string Python, garis miring terbalik (\) adalah 
+    karakter khusus yang mengumumkan bahwa karakter berikutnya memiliki arti yang berbeda, 
+    misalnya, \ n (karakter baris baru) memulai baris keluaran baru.
+
+7.  Argumen posisi adalah argumen yang artinya ditentukan oleh posisinya, 
+    misalnya, argumen kedua dikeluarkan setelah yang pertama, 
+    argumen ketiga dikeluarkan setelah yang kedua, dll.
+
+8.  Argumen kata kunci adalah argumen yang artinya tidak ditentukan oleh lokasinya, 
+    tetapi oleh kata khusus (kata kunci) yang digunakan untuk mengidentifikasinya.
+
+9.  Parameter end=" " dan sep=" " dapat digunakan untuk memformat hasil cetak () fungsi. 
+    Parameter sep="" menentukan pemisah antara argumen yang dikeluarkan (misalnya, 
+    print ("H", "E", "L", "L", "O", sep = "-"), sedangkan parameter end="" 
+    menentukan apa yang akan dicetak di akhir pernyataan cetak.
